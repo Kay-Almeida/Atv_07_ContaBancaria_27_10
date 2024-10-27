@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Atv_07_ContaBancaria_27_10</string>
+
+        <string name="label_cliente">Nome do Cliente</string>
+        <string name="hint_cliente">Digite o nome do cliente</string>
+        <string name="label_numero_conta">Número da Conta</string>
+        <string name="hint_numero_conta">Número da conta</string>
+        <string name="label_saldo_inicial">Saldo Inicial</string>
+        <string name="hint_saldo_inicial">Digite o saldo inicial</string>
+        <string name="label_valor">Valor da Transação</string>
+        <string name="hint_valor">Digite o valor</string>
+
+        <string name="label_tipo_conta">Selecione o Tipo de Conta</string>
+        <string name="label_conta_poupanca">Conta Poupança</string>
+        <string name="label_conta_especial">Conta Especial</string>
+
+        <string name="button_depositar">Depositar</string>
+        <string name="button_sacar">Sacar</string>
+        <string name="button_calcular_rendimento">Calcular Rendimento</string>
+        <string name="button_mostrar_dados">Mostrar Dados da Conta</string>
+
+        <string name="resultado_deposito">Depósito realizado. Novo saldo: </string>
+        <string name="resultado_saque_sucesso">Saque realizado. Novo saldo: </string>
+        <string name="resultado_saque_falha">Saque não permitido.</string>
+        <string name="resultado_rendimento">Novo saldo com rendimento: </string>
+        <string name="erro_conta_poupanca_nao_selecionada">Conta Poupança não selecionada.</string>
+        <string name="dados_conta_poupanca">Conta Poupança - Cliente: %1$s, Número: %2$d, Saldo: %3$.2f</string>
+        <string name="dados_conta_especial">Conta Especial - Cliente: %1$s, Número: %2$d, Saldo: %3$.2f, Limite: %4$.2f</string>
+</resources>
